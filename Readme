@@ -1,0 +1,6 @@
+# DEX APP Using Moralis Oracle
+
+## To Run Locally 
+1- open two terminals
+2- first one Run `cd dexBack && npm i && npm start`
+3- second one Run `cd dex && npm i && npm start`
